@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220">
+  <rect width="220" height="220" rx="36" fill="#ffffff"/>
+  <line x1="67" y1="59" x2="153" y2="145" stroke="#111" stroke-width="7" stroke-linecap="round"/>
+  <line x1="153" y1="59" x2="67" y2="145" stroke="#111" stroke-width="7" stroke-linecap="round"/>
+  <text x="110" y="59" text-anchor="middle" font-size="52" font-family="Arial, sans-serif" fill="#111">♣</text>
+  <text x="44" y="122" text-anchor="middle" font-size="49" font-family="Arial, sans-serif" fill="#ef171c">♦</text>
+  <text x="110" y="191" text-anchor="middle" font-size="52" font-family="Arial, sans-serif" fill="#111">♠</text>
+  <text x="177" y="122" text-anchor="middle" font-size="49" font-family="Arial, sans-serif" fill="#ef171c">♥</text>
+</svg>
